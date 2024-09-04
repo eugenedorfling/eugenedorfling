@@ -1,4 +1,4 @@
-Hello! I’m a passionate software developer with over four years of experience in Python, specializing in backend development, cloud systems, and IoT projects. My journey began with personal IoT experiments on Raspberry Pi, which quickly evolved into more complex projects, including building and managing a simulator racing center’s backend system.
+Hello! I’m a passionate software developer with over five years of experience in Python, specializing in backend development, cloud systems, and IoT projects. My journey began with personal IoT experiments on Raspberry Pi, which quickly evolved into more complex projects, including building and managing a simulator racing center’s backend system.
 
 I thrive in creating robust, scalable solutions, and I’m particularly skilled in developing with frameworks like Django, FastAPI, and Flask. I’ve built everything from TCP servers for managing simulator systems to full-fledged cloud systems hosted on AWS, integrating various modules like race control, telemetry, customer management, and more.
 
